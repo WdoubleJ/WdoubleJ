@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+세명대 정보통신학부 진우진 입니다.
+
 # 💪Skills
 ### Platforms & Languages
 ![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
